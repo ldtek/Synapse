@@ -1,3 +1,3 @@
 # Synapse
-Synase.exe: windows
+Synase.exe: windows;
 Synapse.mono: linux
