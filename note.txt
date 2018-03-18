@@ -1,1 +1,0 @@
-this is the code for Synapse 1.0, do not steal code but feel free to commit to the software. Real release will come soon 
